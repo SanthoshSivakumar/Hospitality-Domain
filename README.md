@@ -11,10 +11,10 @@ However, they do not have an in-house data analytics team to provide them with t
 
 Tool Used : Power BI 
 
-👉 Power Query, Power Pivot (data cleaning and modelling)
-👉 Basic M-language and Intermediate DAX functions
-👉 Filter and row context
-👉 Measures and calculated columns
-👉 Data modelling 
-👉 Charts/visuals 
-👉 Bookmarks, Filters/Slicers (for creating buttons/page navigation)
+  👉 Power Query, Power Pivot (data cleaning and modelling)
+  👉 Basic M-language and Intermediate DAX functions
+  👉 Filter and row context
+  👉 Measures and calculated columns
+  👉 Data modelling 
+  👉 Charts/visuals 
+  👉 Bookmarks, Filters/Slicers (for creating buttons/page navigation)
